@@ -1,0 +1,3 @@
+LAST_SYNC=2025-12-01T10:03:35Z
+FILE=test-sync.json
+STATUS=OK
